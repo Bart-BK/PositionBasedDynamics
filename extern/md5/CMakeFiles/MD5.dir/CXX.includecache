@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/prabhat/Desktop/Mestrado/PositionBasedDynamics/extern/md5/md5.cpp
+md5.h
+/home/prabhat/Desktop/Mestrado/PositionBasedDynamics/extern/md5/md5.h
+assert.h
+-
+string.h
+-
+iostream
+-
+
+/home/prabhat/Desktop/Mestrado/PositionBasedDynamics/extern/md5/md5.h
+stdio.h
+-
+fstream
+-
+iostream
+-
+

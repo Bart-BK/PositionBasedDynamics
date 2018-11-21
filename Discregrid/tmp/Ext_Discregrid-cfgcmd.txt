@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-DCMAKE_BUILD_TYPE:STRING=Release;-DCMAKE_INSTALL_PREFIX:PATH=/home/prabhat/Desktop/Mestrado/PositionBasedDynamics/Discregrid;-DBUILD_CMD_EXECUTABLE:BOOL=0;-DEIGEN3_INCLUDE_DIR:PATH=/home/prabhat/Desktop/Mestrado/PositionBasedDynamics/extern/eigen;-GUnix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'
